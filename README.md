@@ -1,2 +1,1 @@
-# GitTest
-GitHub revision course
+Hello World! 
